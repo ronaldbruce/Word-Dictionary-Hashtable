@@ -1,0 +1,72 @@
+﻿  main.cpp
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\dictionary.h(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\dictionary.h(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\dictionary.h(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\dictionary.h(189): warning C4018: '<': signed/unsigned mismatch
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\dictionary.h(199): warning C4018: '<': signed/unsigned mismatch
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\dictionary.h(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\testinghash.h(127): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(245): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(238): note: while compiling class template member function 'void Hashtable<std::string,Word>::print(int)'
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\dictionary.h(247): note: see reference to function template instantiation 'void Hashtable<std::string,Word>::print(int)' being compiled
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\dictionary.h(13): note: see reference to class template instantiation 'Hashtable<std::string,Word>' being compiled
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(191): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(188): note: while compiling class template member function 'int Hashtable<std::string,Word>::size(void)'
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\dictionary.h(54): note: see reference to function template instantiation 'int Hashtable<std::string,Word>::size(void)' being compiled
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(173): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(169): note: while compiling class template member function 'Word *Hashtable<std::string,Word>::find(KEYTYPE)'
+          with
+          [
+              KEYTYPE=std::string
+          ]
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\dictionary.h(175): note: see reference to function template instantiation 'Word *Hashtable<std::string,Word>::find(KEYTYPE)' being compiled
+          with
+          [
+              KEYTYPE=std::string
+          ]
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(149): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(146): note: while compiling class template member function 'int Hashtable<std::string,Word>::remove(KEYTYPE)'
+          with
+          [
+              KEYTYPE=std::string
+          ]
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\dictionary.h(203): note: see reference to function template instantiation 'int Hashtable<std::string,Word>::remove(KEYTYPE)' being compiled
+          with
+          [
+              KEYTYPE=std::string
+          ]
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(132): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(129): note: while compiling class template member function 'bool Hashtable<std::string,Word>::contains(KEYTYPE)'
+          with
+          [
+              KEYTYPE=std::string
+          ]
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\testinghash.h(57): note: see reference to function template instantiation 'bool Hashtable<std::string,Word>::contains(KEYTYPE)' being compiled
+          with
+          [
+              KEYTYPE=std::string
+          ]
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(102): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(97): note: while compiling class template member function 'bool Hashtable<std::string,Word>::insert(KEYTYPE,VALTYPE)'
+          with
+          [
+              KEYTYPE=std::string,
+              VALTYPE=Word
+          ]
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\dictionary.h(195): note: see reference to function template instantiation 'bool Hashtable<std::string,Word>::insert(KEYTYPE,VALTYPE)' being compiled
+          with
+          [
+              KEYTYPE=std::string,
+              VALTYPE=Word
+          ]
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(75): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(73): note: while compiling class template member function 'int Hashtable<std::string,Word>::hash_function(std::string)'
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(171): note: see reference to function template instantiation 'int Hashtable<std::string,Word>::hash_function(std::string)' being compiled
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(48): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(44): note: while compiling class template member function 'void Hashtable<std::string,Word>::rehash(void)'
+  c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(120): note: see reference to function template instantiation 'void Hashtable<std::string,Word>::rehash(void)' being compiled
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\ronald\documents\visual studio 2017\projects\bruce_223_pa3\bruce_223_pa3\hashtable.h(57): warning C4018: '<': signed/unsigned mismatch
+  Bruce_223_PA3.vcxproj -> C:\Users\Ronald\documents\visual studio 2017\Projects\Bruce_223_PA3\Debug\Bruce_223_PA3.exe
+  Bruce_223_PA3.vcxproj -> C:\Users\Ronald\documents\visual studio 2017\Projects\Bruce_223_PA3\Debug\Bruce_223_PA3.pdb (Partial PDB)
